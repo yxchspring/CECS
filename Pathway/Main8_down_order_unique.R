@@ -1,5 +1,6 @@
 
-# This code is used to separate the unique and replicated data for down-regulated group.
+# This code is used to sort the results of the enrichment analysis for down-regulated group according to the description,p.adjust and etc., 
+# and then get the original enrichment analysis list, common list and unique list, respectively.
 
 setwd("Your current path")
 
