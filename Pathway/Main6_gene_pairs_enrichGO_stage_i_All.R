@@ -1,5 +1,5 @@
 
-# This code is used to conduct the gene pairs enrichments for control(ctrl) groups.
+# This code is used to conduct the pathway enrichment analysis based on co-expressed genes for normal group.
 setwd("Your current path")
 rm(list = ls())
 
