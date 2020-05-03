@@ -1,5 +1,5 @@
 
-# This code is used to obtain the initial DEGs for control (normal) groups (denoted using All (i.e ctrl) in this procedure) up- and down-upregulated, and normal groups, respectively.
+# This code is used to obtain a) initial DEGs, the b) up- and c) down-regulated DEGs by comparing with each stage and its normal tissues, respectively.
 
 setwd("Your current path")
 rm(list = ls())
