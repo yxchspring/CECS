@@ -1,5 +1,5 @@
 
-# This code is used to conduct the gene pairs enrichments for down-regulated groups.
+# This code is used to conduct the pathway enrichment analysis based on co-expressed genes for down-regulated group.
 setwd("Your current path")
 rm(list = ls())
 
