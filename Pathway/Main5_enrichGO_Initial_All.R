@@ -1,5 +1,5 @@
 
-# This code is used to obtain the initial enrichment analysis for control(ctrl) groups.
+# This code is used to obtain the initial enrichment analysis for normal group using a) initial DEGs.
 setwd("Your current path")
 rm(list = ls())
 
