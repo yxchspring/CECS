@@ -1,5 +1,7 @@
 
-# This code is used to Otain the specific location PCC matrix for up- and down-upregulated, and normal groups, respectively.
+# This code is used to otain the final significantly differenatilal locations by setting the PCC_cutoff value for each stage, respectively.
+# Finally, the following results are obtained for each stage, repectively:
+# CEG_Matrix_N_I, CEG_Matrix_Stage_up, CEG_Matrix_Stage_down.
 
 setwd("Your current path")
 # rm(list = ls())
