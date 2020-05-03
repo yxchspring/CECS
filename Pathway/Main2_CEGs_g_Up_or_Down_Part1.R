@@ -1,5 +1,9 @@
 
-# This code is used to obtain the PCC for control (normal) groups (i.e. ctrl) up- and down-upregulated, and normal groups, respectively.
+# This code is used to obtian the 
+# a) PCC network using initial DEGs (i.e. Ref_PCC_Stage_N network), 
+# b) the perturbed PCC using up-regulated DEGs (i.e.  PCC_Stage_up), 
+# c) the perturbed PCC using down-regulated DEGs (i.e. PCC_Stage_down), 
+# for each stage, respectively.
 
 setwd("Your current path")
 rm(list = ls())
