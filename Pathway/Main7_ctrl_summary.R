@@ -1,5 +1,5 @@
 
-# This code is used to conduct the result analysis (summary) for control group.
+# This code is used to conduct the result analysis (i.e. summary) for normal group.
 
 setwd("Your current path")
 # library(readxl)
