@@ -1,5 +1,5 @@
 
-# This code is Conduct the PCC for each Stage and complete the classification task
+# This code is used to conduct the co-expression networks(i.e. PCC) and perturbed PCC for each Stage and complete the classification task
 
 setwd("Your current path")
 rm(list = ls())
