@@ -1,5 +1,5 @@
 
-# This code is used to obtain the enrichment analysis initial enrichment analysis for down-regulated groups.
+# This code is used to obtain the initial enrichment analysis for down-regulated group using c) down-regulated DEGs.
 setwd("Your current path")
 rm(list = ls())
 
