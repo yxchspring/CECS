@@ -28,6 +28,7 @@ This code is used to conduct the co-expression networks(i.e. PCC) and perturbed 
 This code is used to obtain a) initial DEGs, the b) up- and c) down-regulated DEGs by comparing with each stage and its normal tissues, respectively.
 
 2. Main2_CEGs_g_Up_or_Down_Part1.R
+
 This code is used to obtian the 
 a) PCC network using initial DEGs (i.e. Ref_PCC_Stage_N network), 
 b) the perturbed PCC using up-regulated DEGs (i.e.  PCC_Stage_up), 
@@ -59,19 +60,42 @@ This code is used to conduct the pathway enrichment analysis based on co-express
 
 
 9. Main6_gene_pairs_enrichGO_stage_i_up.R
+
 This code is used to conduct the pathway enrichment analysis based on co-expressed genes for up-regulated group.
 
 Note: The operations of the remaining three stages are consistent with those of the stage i.
 
+10. Main7_ctrl_summary.R
+
+This code is used to conduct the result analysis (i.e. summary) for normal group.
+
+11. Main7_down_summary.R
+
+This code is used to conduct the result analysis (i.e. summary) for down-regulated group.
+
+12. Main7_up_summary.R
+
+This code is used to conduct the result analysis (i.e. summary) for up-regulated group.
+
+13. Main8_ctrl_order_unique.R
+
+This code is used to sort the results of the enrichment analysis for normal group according to the description,p.adjust and etc., and then get the original enrichment analysis list, common list and unique list, respectively.
+
+14. Main8_down_order_unique.R
+
+This code is used to sort the results of the enrichment analysis for down-regulated group according to the description,p.adjust and etc., and then get the original enrichment analysis list, common list and unique list, respectively.
+
+15. Main8_up_order_unique.R
+
+This code is used to sort the results of the enrichment analysis for up-regulated group according to the description,p.adjust and etc., and then get the original enrichment analysis list, common list and unique list, respectively.
 
 
 
+#################### Our paper ####################
 
+If you think this research is useful to you, please cite our article below.
 
-
-
-
-
+Xiangchun Yu, Sha Cao, Yi Zhou, Zhezhou Yu*, and Ying Xu*, Co-Expression based Cancer Staging and Application. Scientific Reports.
 
 
 
