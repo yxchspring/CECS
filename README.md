@@ -1,6 +1,7 @@
 # CECS
 Co-Expression based Cancer Staging and Application
 
+
 #################### Code description and introduction: ####################
 
 This codes are divided into two parts. 
@@ -42,12 +43,15 @@ Finally, the following results are obtained for each stage, repectively:
 CEG_Matrix_N_I, CEG_Matrix_Stage_up, CEG_Matrix_Stage_down.
 
 4. Main5_enrichGO_Initial_All.R
+
 This code is used to obtain the initial enrichment analysis for normal group using a) initial DEGs.
 
 5. Main5_enrichGO_Initial_down.R
+
 This code is used to obtain the initial enrichment analysis for down-regulated group using c) down-regulated DEGs.
 
 6. Main5_enrichGO_Initial_up.R
+
 This code is used to obtain the initial enrichment analysis for up-regulated group using b) up-regulated DEGs.
 
 7.Main6_gene_pairs_enrichGO_stage_i_All.R
@@ -57,7 +61,6 @@ This code is used to conduct the pathway enrichment analysis based on co-express
 8. Main6_gene_pairs_enrichGO_stage_i_down.R
 
 This code is used to conduct the pathway enrichment analysis based on co-expressed genes for down-regulated group.
-
 
 9. Main6_gene_pairs_enrichGO_stage_i_up.R
 
@@ -88,7 +91,6 @@ This code is used to sort the results of the enrichment analysis for down-regula
 15. Main8_up_order_unique.R
 
 This code is used to sort the results of the enrichment analysis for up-regulated group according to the description,p.adjust and etc., and then get the original enrichment analysis list, common list and unique list, respectively.
-
 
 
 #################### Our paper ####################
