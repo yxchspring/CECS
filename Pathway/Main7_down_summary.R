@@ -1,5 +1,5 @@
 
-# This code is used to conduct the result analysis (summary) for down-regulated group.
+# This code is used to conduct the result analysis (i.e. summary) for down-regulated group.
 
 setwd("Your current path")
 # library(readxl)
