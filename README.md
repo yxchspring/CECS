@@ -45,9 +45,7 @@ for each stage, respectively.
 
 3. Main2_CEGs_g_Up_or_Down_Part2.R
 
-This code is used to otain the final significantly differenatilal locations by setting the PCC_cutoff value for each stage, respectively.
-
-Finally, the following results are obtained for each stage, repectively:
+This code is used to otain the final significantly differenatilal locations by setting the PCC_cutoff value for each stage, respectively. Finally, the following results are obtained for each stage, repectively:
 
 CEG_Matrix_N_I, CEG_Matrix_Stage_up, CEG_Matrix_Stage_down.
 
